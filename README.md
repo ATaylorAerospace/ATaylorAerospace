@@ -8,4 +8,4 @@
 
 🚀 Contact me for discussions related to Ion Propulsion or other Aerospace and Astronomy topics
 
-📫 How to reach me: www.linkedin.com/in/ameedtaylor
+📫 How to reach me: <a href = "mailto: ameedtaylor@gmail.com">Email</a> | 
