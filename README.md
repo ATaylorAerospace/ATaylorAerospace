@@ -8,5 +8,4 @@
 
 🚀 Contact me for discussions related to Ion Propulsion or other Aerospace and Astronomy topics
 
-📫 How to reach me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ameedtaylor" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ameedtaylor?trk=profile-badge">Ameed Taylor</a></div>
-              
+📫 How to reach me: www.linkedin.com/in/ameedtaylor
