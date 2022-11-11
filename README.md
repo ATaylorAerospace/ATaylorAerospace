@@ -1,6 +1,6 @@
 👋 Hi, I’m @ATaylorGH
 
-👀 I’m interested in Data Engineering 
+👀 I’m interested in Data Engineering and Aerospace
 
 🌱 I’m currently becoming proficient this year (2022) in Python and data wrangling with Trifacta
 
