@@ -2,7 +2,7 @@
 
 👀 I’m interested in Data Engineering and Aerospace
 
-🌱 I’m currently becoming proficient this year (2022) in Python and data wrangling with Trifacta
+🌱 I’m currently becoming proficient (2022-2023) in Python and data wrangling with Trifacta
 
 💞️ I’m looking to collaborate on data projects utilizing DBT, Big Query, Rudderstack and Python amongst other tools/languages
 
