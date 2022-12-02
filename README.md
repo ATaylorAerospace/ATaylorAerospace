@@ -4,7 +4,7 @@
 
 🌱 I’m currently becoming proficient (2022-2023) in Python and data wrangling with Trifacta
 
-💞️ I’m looking to collaborate on data projects utilizing DBT, Big Query, Rudderstack and Python amongst other tools/languages
+💞️ I’m looking to collaborate on data projects utilizing DBT, Big Query, Rudderstack Lightdash and Python amongst other tools/languages
 
 🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
 
