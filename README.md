@@ -8,7 +8,7 @@
 
 🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
 
-Ich suche für 2023 immersive Gespräche mit deutschen und spanischen Muttersprachlern
+👨🏽‍💻 Ich suche für 2023 immersive Gespräche mit deutschen und spanischen Muttersprachlern
 
 Busco conversaciones inmersivas con hablantes nativos de alemán y español en 2023
 
