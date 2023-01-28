@@ -6,7 +6,7 @@
 
 💫 I’m looking to collaborate on data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
 
-🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Commercial Aerospace and Astronomy topics
+🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
 
 🔍 Ich suche für 2023 immersive gespräche mit deutschen und spanischen muttersprachlern
 
