@@ -1,10 +1,12 @@
 👋 Hi, I’m @ATaylorAerospace
 
-💡 I’m interested in Commercial Aerospace, Data Engineering and Immersive German and Spanish Language Study
+💡 I’m interested in Commercial Aerospace, Data Engineering, LLM Applications and Immersive German and Spanish Language Study
 
 👨🏽‍💻 I’m currently becoming proficient (2023) in Python and data wrangling with Trifacta Designer Cloud
 
-💫 I’m looking to collaborate on data projects and data automation initiaives utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools and Large Language Model applications
+💫 I’m looking to collaborate on data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
+
+💫 Am creating additional Large Language Model (LLM) application use cases across business, healthcare and aerospace domains and in languages beyond English 
 
 🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
 
