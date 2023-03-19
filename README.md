@@ -6,7 +6,7 @@
 
 💫 I’m looking to collaborate on data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
 
-✨ Am tuning new LLM's and Prompts for Medical Question Answering and aerospace domains and in languages beyond English 
+✨ Am tuning new LLM's and Prompts for Medical Question Answering and Aerospace Domains in English and other languages 
 
 🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
 
