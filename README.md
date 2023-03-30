@@ -2,7 +2,7 @@
 
 💡 I’m interested in Commercial Aerospace, LLM Tuning/Prompt Design, Data Automation and Immersive German and Spanish Language Study
 
-💫 I’m looking to collaborate on AI projects involving LLM tuning and AI Prompt Creation and data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
+💫 I’m looking to collaborate on AI projects involving LLM tuning and AI Prompt Creation and Data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
 
 👨🏽‍💻 I’m currently becoming proficient (2023) in Python and data wrangling with Trifacta Designer Cloud
 
