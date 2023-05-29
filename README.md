@@ -1,12 +1,12 @@
 👋 Hi, I’m @ATaylorAerospace
 
-💡 I’m interested in Commercial Aerospace, LLM Tuning/Prompt Design, Data Automation and Immersive German and Spanish Language Study
+💡 I’m interested in Commercial Aerospace, LLM Tuning/Generative AI Prompt Design, Data Automation and Immersive German and Spanish Language Study
 
 💫 I’m looking to collaborate on AI projects involving LLM tuning and AI Prompt Creation
 
-👨🏽‍💻 I’m currently working on Data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
+👨🏽‍💻 Using Anthropic Claude and Google Vertex AI/Med-PaLM 2; am tuning LLM's and Generative AI Prompts for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
-✨ Using Vertex AI/Med-PaLM 2 and soon Anthropic Claude, am tuning LLM's and Prompts for Medical Question Answering and Aerospace Domains in English and other Latin scripts
+✨ I’m currently working on Data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
 
 🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
 
