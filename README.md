@@ -2,7 +2,7 @@
 
 💡 I’m interested in Commercial Aerospace, LLM Tuning/Generative AI Prompt Design, Data Automation and Immersive German and Spanish Language Study
 
-💫 I’m looking to collaborate on AI projects involving LLM tuning and AI Prompt Creation
+💫 I’m looking to collaborate on AI projects involving LLM tuning and Generative AI Prompt Creation
 
 👨🏽‍💻 Using Anthropic Claude and Google Vertex AI/Med-PaLM 2; am tuning LLM's and Generative AI Prompts for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
