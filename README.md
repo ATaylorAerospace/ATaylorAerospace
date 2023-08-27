@@ -2,7 +2,7 @@
 
 💡 I’m interested in Commercial Aerospace, LLM fine Tuning/Generative AI Application Design, Data Automation and Immersive German and Spanish Language Study
 
-💫 I’m looking to collaborate on AI projects involving LLM fine tuning and Generative AI Chatbot and Application Design
+💫 I’m looking to collaborate on AI projects involving Retrieval Augmented Generation, LLM fine tuning and Generative AI Chatbot and Application Design
 
 👨🏽‍💻 Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
