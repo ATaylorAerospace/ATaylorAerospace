@@ -1,6 +1,6 @@
 👋 Hi, I’m @ATaylorAerospace
 
-💡 I’m interested in Commercial Aerospace, LLM fine Tuning/Generative AI Application Design, Data Automation and Immersive German and Spanish Language Study
+💡 I’m interested in Commercial Aerospace, LLM Fine Tuning/Generative AI Application Design, Data Automation and Immersive German and Spanish Language Study
 
 💫 I’m looking to collaborate on AI projects involving Retrieval Augmented Generation, Computer Vision and Generative AI Chatbot and Application design.
 
