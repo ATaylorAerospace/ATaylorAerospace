@@ -4,6 +4,8 @@
 
 💫 I’m looking to collaborate on AI projects involving Enterprise Retrieval Augmented Generation, Computer Vision and Generative AI
 
+🤖 Am creating and marketing Enterprise and Consumer level OpenAI GPTs for sale in the Open AI GPT Store
+
 👨🏽‍💻 Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
 ✨ I’m currently working on Data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
