@@ -8,7 +8,7 @@
 
 👨🏽‍💻 Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
-✨ I’m currently working on Data projects utilizing DBT, Big Query, Rudderstack and Lightdash amongst other modern data stack tools
+✨ I’m currently working on Data projects utilizing DBT, Big Query and Lightdash amongst other modern data stack tools
 
 🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
 
