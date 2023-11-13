@@ -1,6 +1,6 @@
 👋 Hi, I’m @ATaylorAerospace
 
-💡 I’m interested in Commercial Aerospace, Computer Vision/Generative AI and Immersive German and Spanish Language Study
+💡 I’m interested in Commercial Aerospace, Computer Vision/Generative AI and AgriTech
 
 💫 I’m looking to collaborate on AI projects involving Enterprise Retrieval Augmented Generation, Computer Vision and Generative AI
 
@@ -10,7 +10,7 @@
 
 ✨ I’m currently working on Data projects utilizing DBT, Big Query and Lightdash amongst other modern data stack tools
 
-🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion or other Aerospace and Astronomy topics
+🚀 I’m always ready to chat about the Commercial Space Industry - Ion Propulsion and AgriTech
 
 🔍 Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen und Spanischen Sprachen im Jahr 2024
 
