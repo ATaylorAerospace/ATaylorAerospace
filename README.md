@@ -6,7 +6,7 @@
 
 🤖 Am creating and marketing Enterprise and Consumer level OpenAI GPTs for sale in the Open AI GPT Store
 
-👨🏽‍💻 Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
+👨🏽‍💻 Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain / LangSmith, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
 ✨ I’m currently working on Data projects utilizing DBT, Big Query and Lightdash amongst other modern data stack tools
 
