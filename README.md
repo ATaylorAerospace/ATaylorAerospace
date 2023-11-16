@@ -2,7 +2,7 @@
 
 💡 I’m interested in Commercial Aerospace, Computer Vision/Generative AI and AgriTech
 
-💫 I’m looking to collaborate on AI projects involving Enterprise Retrieval Augmented Generation, Computer Vision and Generative AI
+💫 I’m looking to collaborate on AI projects involving Multimodal Computer Vision, Enterprise Retrieval Augmented Generation and Generative AI
 
 🤖 Am creating and marketing Enterprise and Consumer level OpenAI GPTs for sale in the Open AI GPT Store
 
