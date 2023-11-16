@@ -4,7 +4,7 @@
 
 **💫** I’m looking to collaborate on projects involving Multimodal Computer Vision, Enterprise Retrieval Augmented Generation and Generative AI
 
-**🤖** Am creating and marketing Enterprise and Consumer level OpenAI GPTs for sale in the Open AI GPT Store
+**🤖** Am creating and marketing Enterprise and Consumer level Open GPT's
 
 **👨🏽‍💻** Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain / LangSmith, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
