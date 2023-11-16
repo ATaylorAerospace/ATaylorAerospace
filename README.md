@@ -1,4 +1,4 @@
-👋 Hi, I’m @ATaylorAerospace
+**👋** Hi, I’m @ATaylorAerospace
 
 💡 I’m interested in Commercial Aerospace, Computer Vision/Generative AI and AgriTech
 
