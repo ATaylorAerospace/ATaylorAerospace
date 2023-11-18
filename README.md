@@ -4,7 +4,7 @@
 
 **💫** I’m looking to collaborate on projects involving Multimodal Computer Vision and Generative AI
 
-**🤖** Am creating and marketing Enterprise and Consumer level Open GPTs
+**🤖** Am beginning tuning of Mistral 7b and LLaVA models with the QLoRA method to validate outcomes for Multimodal and Computer Vision AI use cases
 
 **👨🏽‍💻** Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain / LangSmith, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
