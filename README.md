@@ -4,7 +4,7 @@
 
 **💫** I’m looking to collaborate on projects involving Multimodal Computer Vision and Generative AI
 
-**🤖** Am beginning fine tuning of Mistral 7b and LLaVA models; with the QLoRA and Quantization methods, to validate for Multimodal and Computer Vision AI use cases.
+**🤖** Am fine tuning Mistral 7b and LLaVA models; with the QLoRA and Quantization methods, for Multimodal and Computer Vision AI use cases.
 
 **👨🏽‍💻** Using Anthropic Claude and Google Vertex AI / Med-PaLM 2 LLM's, LangChain / LangSmith, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace Domains in English and other Latin scripts
 
