@@ -20,3 +20,5 @@
 
 
 <img src="https://camo.githubusercontent.com/ba5a241a857f6d4eff67ed29a57bf895a9ac40917590b3970b96fbcafa1fc132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5745422d4646343038383f7374796c653d666f722d7468652d6261646765266c6f676f3d4875676f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Huggingface?style=for-the-badge&amp;logo=Huggingface&amp;logoColor=white" style="max-width: 100%;">
+
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption)
