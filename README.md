@@ -12,7 +12,7 @@
 
 **🚀** I’m always ready to chat about the Commercial Space Industry - Ion Propulsion and AgriTech
 
-**🔍** Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen und Spanischen Sprachen im Jahr 2024
+**🔍** Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen im 2024
 
 
 
