@@ -1,6 +1,6 @@
 **👋** Hi, I’m @ATaylorAerospace
 
-**💡** I’m interested in Commercial Aerospace, Computer Vision/Generative AI and AgriTech
+**💡** I’m interested in Commercial Aerospace, Computer Vision and Generative AI
 
 **💫** I’m looking to collaborate on projects involving Multimodal Computer Vision and Generative AI
 
