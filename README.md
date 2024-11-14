@@ -6,7 +6,7 @@
 
 **🤖** Am fine tuning Mistral 7b & LLaVA models with the QLoRA & Quantization methods, for Multimodal use cases.
 
-**👨🏽‍💻** Using GPT-4 and Google Vertex AI / Gemini LLM's, LangChain / LangSmith, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace domains.
+**👨🏽‍💻** Leveraging Google Vertex AI, GPT-4o, LangChain, Weaviate, Mem0, and Crew AI to build intelligent agents for healthcare and aerospace.
 
 **✨** I’m currently working on Data projects utilizing DBT, Big Query and Looker amongst other modern data stack tools
 
