@@ -2,15 +2,15 @@
 
 **💡** I’m interested in Commercial Aerospace, Computer Vision and Generative AI
 
-**💫** I’m looking to collaborate on projects involving Multimodal Computer Vision and Generative AI
+**💫** I am looking to collaborate on projects involving multimodal AI and generative AI to create intelligent agents.
 
-**🤖** Am fine tuning Mistral 7b & LLaVA models with the QLoRA & Quantization methods, for Multimodal and Computer Vision use cases.
+**🤖** Am fine tuning Mistral 7b & LLaVA models with the QLoRA & Quantization methods, for Multimodal use cases.
 
 **👨🏽‍💻** Using GPT-4 and Google Vertex AI / Gemini LLM's, LangChain / LangSmith, and Weaviate vector stores, am creating Generative AI Applications for Medical Question Answering and Aerospace domains.
 
 **✨** I’m currently working on Data projects utilizing DBT, Big Query and Looker amongst other modern data stack tools
 
-**🚀** I’m always ready to chat about the Commercial Space Industry - Ion Propulsion and AgriTech
+**🚀** I’m always ready to chat about the Commercial Space Industry and Ion Propulsion
 
 **🔍** Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen im 2024
 
