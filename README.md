@@ -6,7 +6,7 @@
 
 **🤖** Am fine tuning Mistral 7b & LLaVA models with the QLoRA & Quantization methods, for Multimodal use cases.
 
-**👨🏽‍💻** Leveraging Google Vertex AI, GPT-4o, LangChain, Weaviate, Mem0, and Crew AI to build intelligent agents for healthcare and aerospace.
+**👨🏽‍💻** Leveraging Google Vertex AI, Amazon Bedrock, GPT-4o, LangChain, Weaviate, Mem0, and Crew AI to build intelligent agents for healthcare and aerospace.
 
 **✨** I’m currently working on Data projects utilizing DBT, Big Query and Looker amongst other modern data stack tools
 
