@@ -4,7 +4,7 @@
 
 **💫** I am looking to collaborate on projects involving multimodal AI and generative AI to create intelligent agents.
 
-**🤖** Am fine tuning Mistral 7b & LLaVA models with the QLoRA & Quantization methods, for Multimodal use cases.
+**🤖** Am fine tuning Mistral 8b & LLaVA models with the QLoRA & Quantization methods, for Multimodal use cases.
 
 **👨🏽‍💻** Leveraging Google Vertex AI, Amazon Bedrock, GPT-4o, LangChain, Weaviate, Mem0, and Crew AI to build intelligent agents for healthcare and aerospace.
 
