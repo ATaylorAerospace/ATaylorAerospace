@@ -1,8 +1,8 @@
 **👋** Hi, I’m @ATaylorAerospace
 
-**💡** I’m interested in Commercial Aerospace, Computer Vision and Generative AI
+**💡** I’m interested in Commercial Aerospace, Computer Vision, Generative AI and Multimodal Medical Large Language Models
 
-**💫** I am looking to collaborate on projects involving multimodal AI and generative AI to create intelligent agents.
+**💫** I am looking to collaborate on projects involving multimodal LLM's and generative AI to create intelligent agents.
 
 **🤖** Am fine tuning Mistral 8b & LLaVA models with the QLoRA & Quantization methods, for Multimodal use cases.
 
