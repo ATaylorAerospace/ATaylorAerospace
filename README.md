@@ -8,8 +8,6 @@
 
 **👨🏽‍💻** Leveraging Google Vertex AI, Amazon Bedrock, GPT-4o, LangChain, Weaviate, Mem0, and Crew AI to build intelligent agents for healthcare and aerospace.
 
-**✨** I’m currently working on Data projects utilizing DBT, Big Query and Looker amongst other modern data stack tools
-
 **🚀** I’m always ready to chat about the Commercial Space Industry and Ion Propulsion
 
 **🔍** Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen im 2024
