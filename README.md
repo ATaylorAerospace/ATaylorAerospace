@@ -10,7 +10,7 @@
 
 **🚀** I’m always ready to chat about the Commercial Space Industry and Ion Propulsion
 
-**🔍** Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen im 2024
+**🔍** Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen im 2025
 
 
 
