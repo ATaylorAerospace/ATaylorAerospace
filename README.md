@@ -1,6 +1,6 @@
 **👋** Hi, I’m @ATaylorAerospace
 
-**💡** I’m interested in Commercial Aerospace, Computer Vision, Generative AI and Multimodal Medical Large Language Models
+**💡** I’m interested in Commercial Aerospace, Generative AI and Multimodal Medical Large Language Models
 
 **💫** I am looking to collaborate on projects involving multimodal LLM's and generative AI to create intelligent agents.
 
