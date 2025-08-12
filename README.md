@@ -1,16 +1,24 @@
-**👋** Hi, I’m @ATaylorAerospace
+"## 👋 About Me
 
-**💡** I'm interested in Commercial Aerospace, Generative & Agentic AI, and Multimodal Medical Large Language Models.
+### 🎯 Core Interests
+- 🛩️ **Commercial Aerospace**: Advanced propulsion systems and space technology
+- 🤖 **Generative & Agentic AI**: Building intelligent autonomous systems
+- 🏥 **Multimodal Medical LLMs**: Healthcare AI and diagnostic systems
 
-**💫** I am looking to collaborate on projects involving multimodal LLM's and generative AI to create intelligent agents.
+### 🤝 Collaboration Focus
+💫 **Looking to collaborate on:**
+- Multimodal LLM development and applications
+- Generative AI for intelligent agent creation
+- Healthcare and aerospace AI solutions
 
-**🤖** Am fine tuning Mistral 8x7B, and DeepSeek-R1 models with the QLoRA, DPO and Quantization methods, for Multimodal use cases.
+### 🔬 Current Technical Work
+- 🧠 **Model Fine-tuning**: Mistral 8x7B and DeepSeek-R1 with QLoRA, DPO, and Quantization
+- ⚡ **Multimodal Applications**: Cross-modal learning and synthesis systems
+- 🛠️ **Tech Stack**: Google Vertex AI, Amazon Bedrock, GPT-4o, LangChain, Weaviate, Mem0, Crew AI
 
-**👨🏽‍💻** Leveraging Google Vertex AI, Amazon Bedrock, GPT-4o, LangChain, Weaviate, Mem0, and Crew AI to build intelligent agents for healthcare and aerospace.
-
-**🚀** I’m always ready to chat about the Commercial Space Industry and Ion Propulsion
-
-**🔍** Ich suche nach entspannenden Gesprächen mit Muttersprachlern der Deutschen im 2025
+### 🚀 Let's Connect
+- 💬 **Commercial Space Industry** discussions and Ion Propulsion insights
+- 🇩🇪 **German Language Practice**: Seeking relaxed conversations with native speakers in 2025"""
 
 ## 🧠 AI Research & Contributions
 
