@@ -21,7 +21,7 @@
 - 💎 **SiN Photonics**: Specialized waveguide and optical datasets
 
 ## 🔬 Current Technical Work
-- 🔌 **Model Context Protocol (MCP)**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
+- 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
 - 🧠 **Model Fine tuning**: Mistral 8x7B and DeepSeek-R1 with QLoRA, DPO, and Quantization
 - ⚡ **Multimodal Applications**: Cross modal learning and synthesis systems
 - 🛠️ **Tech Stack**: Google Vertex AI, Amazon Bedrock, GPT-4o, LangChain, Weaviate, Mem0, Crew AI
