@@ -1,8 +1,8 @@
 # 👋 About Me
 
 ### 🎯 Core Interests
+- 🤖 **Agentic AI**: Building intelligent autonomous agentic systems
 - 🛩️ **Commercial Aerospace**: Advanced ion propulsion systems and space technology
-- 🤖 **Generative & Agentic AI**: Building intelligent agentic systems
 - 🏥 **Multimodal Medical LLMs**: Healthcare AI and diagnostic systems
 
 ## 🧠 AI Research & Contributions
@@ -23,13 +23,14 @@
 ## 🔬 Current Technical Work
 - 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
 - 🧠 **Model Fine-tuning**: Llama 3.3 70B & Qwen2.5 72B with QLoRA and GGUF Quantization
-- 🤖 **Agentic AI**: Production multi-agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
+- 🤖 **Agentic AI**: Production multi agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
 - 🛠️ **Tech Stack**: Google Vertex AI, Amazon Bedrock, Anthropic, LangChain, AWS Strands Agents, Google ADK
 
 ## 🤝 Collaboration Focus
 💫 **Looking to collaborate on:**
+- Agentic AI for intelligent AI agent creation
 - Multimodal LLM development, fine tuning and applications
-- Generative AI for intelligent AI agent creation
+- Agentic AI for intelligent AI agent creation
 - Healthcare and aerospace AI solutions
 
 ## 🚀 Let's Connect
