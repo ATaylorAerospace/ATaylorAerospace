@@ -29,7 +29,7 @@
 ## 🤝 Collaboration Focus
 💫 **Looking to collaborate on:**
 - Multimodal Autonomous Agents
-- Multimodal LLM development and fine tuning a
+- Multimodal LLM development and fine tuning
 - Healthcare and aerospace AI solutions
 
 ## 🚀 Let's Connect
