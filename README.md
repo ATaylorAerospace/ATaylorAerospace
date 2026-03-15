@@ -28,9 +28,8 @@
 
 ## 🤝 Collaboration Focus
 💫 **Looking to collaborate on:**
-- Agentic AI for intelligent AI agent creation
-- Multimodal LLM development, fine tuning and applications
-- Agentic AI for intelligent AI agent creation
+- Multimodal Autonomous Agents
+- Multimodal LLM development and fine tuning a
 - Healthcare and aerospace AI solutions
 
 ## 🚀 Let's Connect
