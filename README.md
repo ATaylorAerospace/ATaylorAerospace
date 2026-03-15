@@ -10,9 +10,9 @@
 ### Hugging Face Profile
 🤗 **[View My Complete AI Portfolio](https://huggingface.co/Taylor658)**
 - **31+ Specialized Datasets** across multiple domains
-- **Active Research** in Aerospace AI, Healthcare, and Multimodal Systems
+- **Active Research** in Aerospace AI, Healthcare, and Multimodal LLM's
 - **Community Contributor** with regular model and dataset releases
-- **Contributor** to the [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome)
+- **Contributor** to the [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome#meet-our-team)
 
 ### Featured Research Areas
 - 🚀 **Aerospace AI**: Advanced modeling and mission profile simulation datasets
