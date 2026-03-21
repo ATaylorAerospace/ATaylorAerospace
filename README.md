@@ -32,13 +32,13 @@
 - Multimodal LLM development and fine tuning
 - Healthcare and aerospace AI solutions
 
-[![Contact A Taylor](https://img.shields.io/badge/Contact-A%20Taylor-brightgreen?style=for-the-badge&logo=mail.ru&logoColor=white)](https://ataylor.getform.com/5w8wz)
+[![Contact A Taylor](https://img.shields.io/badge/Contact-A%20Taylor-brightgreen.svg?logo=mail.ru&logoColor=white)](https://ataylor.getform.com/5w8wz)
 
 ## 🚀 Let's Connect
 
-[![Contact A Taylor](https://img.shields.io/badge/Contact-A%20Taylor-brightgreen?style=for-the-badge&logo=mail.ru&logoColor=white)](https://ataylor.getform.com/5w8wz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameedtaylor)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Taylor658)
+[![Contact A Taylor](https://img.shields.io/badge/Contact-A%20Taylor-brightgreen.svg?logo=mail.ru&logoColor=white)](https://ataylor.getform.com/5w8wz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameedtaylor)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Taylor658-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Taylor658)
 
 - 💬 **Commercial Space Industry** discussions and Ion Propulsion insights
 - 🗣️ **German Language Practice**: Seeking relaxed conversations with native speakers in 2026
