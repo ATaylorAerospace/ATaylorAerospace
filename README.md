@@ -30,7 +30,7 @@
 💫 **Looking to collaborate on:**
 - Multimodal Autonomous Agents
 - Multimodal LLM development and fine tuning
-- Healthcare and aerospace AI solutions
+- Healthcare and Aerospace AI solutions
 
 ## 🚀 Let's Connect
 - 💬 **Commercial Space Industry** discussions and Ion Propulsion insights
