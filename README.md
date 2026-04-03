@@ -38,7 +38,7 @@
 - 🗣️ **German Language Practice**: Seeking relaxed conversations with native speakers in 2026
 
 [![Contact A Taylor](https://img.shields.io/badge/Contact-A%20Taylor-brightgreen.svg?logo=mail.ru&logoColor=white)](https://ataylor.getform.com/5w8wz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameedtaylor)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Taylor658-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Taylor658)
+
 
 
