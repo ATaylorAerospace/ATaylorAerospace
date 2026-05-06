@@ -34,7 +34,7 @@
 
 ## 🚀 Let's Connect
 
-- 💬 **Commercial Space Industry** discussions and Ion Propulsion insights
+- 💬 **Commercial Space Industry** discussions and Propulsion insights
 - 🗣️ **German Language Practice**: Seeking relaxed conversations with native speakers in 2026
 
 [![Contact A Taylor](https://img.shields.io/badge/Contact-A%20Taylor-brightgreen.svg?logo=mail.ru&logoColor=white)](https://ataylor.getform.com/5w8wz)
