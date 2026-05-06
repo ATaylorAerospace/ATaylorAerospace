@@ -2,7 +2,7 @@
 
 ### 🎯 Core Interests
 - 🤖 **Agentic AI**: Building intelligent autonomous agentic systems
-- 🛩️ **Commercial Aerospace**: Advanced ion propulsion systems and space technology
+- 🛩️ **Commercial Aerospace**: Advanced propulsion systems and space technology
 - 🏥 **Multimodal Medical LLMs**: Healthcare AI and diagnostic systems
 
 ## 🧠 AI Research & Contributions
