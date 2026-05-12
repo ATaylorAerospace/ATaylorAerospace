@@ -21,10 +21,10 @@
 - 💎 **SiN Photonics**: Specialized waveguide and optical datasets
 
 ## 🔬 Current Technical Work
-- 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
-- 🧠 **Model Fine-tuning**: Llama 3.3 70B & Qwen2.5 72B with QLoRA and GGUF Quantization
 - 🤖 **Agentic AI**: Production multi agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
 - 🛠️ **Tech Stack**: Google Vertex AI, Amazon Bedrock, Anthropic, LangChain, AWS Strands Agents, Google ADK
+- 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
+- 🧠 **Model Fine-tuning**: Llama 3.3 70B & Qwen2.5 72B with QLoRA and GGUF Quantization
 
 ## 🤝 Collaboration Focus
 💫 **Looking to collaborate on:**
