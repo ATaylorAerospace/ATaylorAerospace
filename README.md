@@ -2,6 +2,7 @@
 
 ### 🎯 Core Interests
 - 🤖 **Agentic AI**: Building intelligent autonomous agentic systems
+- 🛡️ **Safe Autonomy**: Human In The Loop design, deterministic guardrails, and auditable agent systems
 - 🛩️ **Commercial Aerospace**: Advanced propulsion systems and space technology
 - 🏥 **Multimodal Medical LLMs**: Healthcare AI and diagnostic systems
 
@@ -22,7 +23,7 @@
 
 ## 🔬 Current Technical Work
 - 🤖 **Agentic AI**: Production multi agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
-- 🛠️ **Tech Stack**: Anthropic Claude (API and Agent SDK), AWS Strands Agents, Google ADK, LangGraph, MCP
+- 🛠️ **Tech Stack**: Anthropic Claude (API and Agent SDK), AWS Strands Agents, Google ADK, MCP
 - 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
 - 🧠 **Context Engineering**: Designing memory and retrieval for agents that need to stay coherent across long, multistep tasks
 
