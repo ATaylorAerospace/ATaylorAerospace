@@ -10,7 +10,7 @@
 
 ### Hugging Face Profile
 🤗 **[View My Complete AI Portfolio](https://huggingface.co/Taylor658)**
-- **31+ Specialized Datasets** across multiple domains
+- **31+ Specialized Datasets** spanning photonics, healthcare, aerospace, and legal domains
 - **Active Research** in Aerospace AI, Healthcare, and Multimodal LLM's
 - **Community Contributor** with regular model and dataset releases
 - **Contributor** to the [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome#meet-our-team)
@@ -19,7 +19,7 @@
 - 🚀 **Aerospace AI**: Advanced modeling and mission profile simulation datasets
 - 🏥 **Healthcare AI**: Medical imaging and diagnostic datasets
 - 🤖 **Multimodal Gen AI**: Cross modal learning and synthesis
-- 💎 **SiN Photonics**: Specialized waveguide and optical datasets
+- 💎 **Integrated Photonics**: SiN waveguide datasets and thermal drift simulation for deep space based instruments
 
 ## 🔬 Current Technical Work
 - 🤖 **Agentic AI**: Production multi agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
