@@ -22,9 +22,9 @@
 
 ## 🔬 Current Technical Work
 - 🤖 **Agentic AI**: Production multi agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
-- 🛠️ **Tech Stack**: Google Vertex AI, Amazon Bedrock, Anthropic, LangChain, AWS Strands Agents, Google ADK
+- 🛠️ **Tech Stack**: Anthropic Claude (API and Agent SDK), AWS Strands Agents, Google ADK, LangGraph, MCP
 - 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
-- 🧠 **Model Fine-tuning**: Llama 3.3 70B & Qwen2.5 72B with QLoRA and GGUF Quantization
+- 🧠 **Context Engineering**: Designing memory and retrieval for agents that need to stay coherent across long, multistep tasks
 
 ## 🤝 Collaboration Focus
 💫 **Looking to collaborate on:**
