@@ -29,8 +29,8 @@
 
 ## 🤝 Collaboration Focus
 💫 **Looking to collaborate on:**
+- Designing autonomous loop engineering systems and self-verifying agent workflows via Claude
 - Multimodal Autonomous Agents
-- Multimodal LLM development and fine tuning
 - Healthcare and Aerospace AI solutions
 
 ## 🚀 Let's Connect
