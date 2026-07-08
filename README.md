@@ -28,9 +28,9 @@
 - 🧠 **Context Engineering**: Designing memory and retrieval for agents that need to stay coherent across long, multistep tasks
 
 ## 💛 Collaboration Focus
-* 📡 **Looking to collaborate on:** Designing autonomous loop engineering systems and self-verifying agent workflows via Claude.
-* 🤖 *Multimodal Autonomous Agents:* Scaled development across diverse execution frameworks.
-* 🚀 *Healthcare and Aerospace AI:* Deep-tech optimization and industry-specific pipeline solutions.
+* 📡 **Looking to collaborate on:** Designing autonomous loop engineering systems and self verifying agent workflows via Claude.
+* 🤖 *Multimodal Autonomous Agents:* Scaled development across diffrent execution frameworks.
+* 🚀 *Healthcare and Aerospace AI:* Deep tech optimization and industry specific pipeline solutions.
 
 ## 🤖 Let's Connect
 
