@@ -3,7 +3,7 @@
 ### 🎯 Core Interests
 - 🤖 **Agentic AI**: Building intelligent autonomous agentic systems
 - 🛡️ **Safe Autonomy**: Human In The Loop design, deterministic guardrails, and auditable agent systems
-- 🛩️ **Commercial Aerospace**: Advanced propulsion systems and space technology
+- 🛩️ **Commercial Aerospace** Orbital mechanics, electric propulsion, and space instrument modeling in MATLAB, Python, and C++
 - 🏥 **Multimodal Medical LLMs**: Healthcare AI and diagnostic systems
 
 ## 🧠 AI Research & Contributions
@@ -16,7 +16,7 @@
 - **Contributor** to the [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit0/welcome/welcome#meet-our-team)
 
 ### Featured Research Areas
-- 🚀 **Aerospace AI**: Advanced modeling and mission profile simulation datasets
+- 🚀 **Aerospace AI** Mission profile simulation, electric propulsion modeling, with MATLAB and C++ implementations alongside Python
 - 🏥 **Healthcare AI**: Medical imaging and diagnostic datasets
 - 🤖 **Multimodal Gen AI**: Cross modal learning and synthesis
 - 💎 **Integrated Photonics**: SiN waveguide datasets and thermal drift simulation for deep space based instruments
@@ -25,6 +25,7 @@
 - 🤖 **Agentic AI**: Production multi agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
 - 🛠️ **Tech Stack**: Anthropic Claude (API and Agent SDK), AWS Strands Agents, Google ADK, MCP
 - 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
+- 🚀 **Scientific Computing** Tri language physics libraries (MATLAB, Python, C++20) with cross language numerical parity and benchmark validation
 - 🧠 **Context Engineering**: Designing memory and retrieval for agents that need to stay coherent across long, multistep tasks
 
 ## 💛 Collaboration Focus
