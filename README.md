@@ -25,7 +25,7 @@
 - 🤖 **Agentic AI**: Production multi agent systems across Watsonx Orchestrate, Amazon Bedrock Agents & Vertex AI Agent Builder
 - 🛠️ **Tech Stack**: Anthropic Claude (API and Agent SDK), AWS Strands Agents, Google ADK, MCP
 - 🔌 **MCP**: Building production MCP frameworks and contributing to IBM's Context Forge gateway
-- 🚀 **Scientific Computing** Tri language physics libraries (MATLAB, Python, C++20) with cross language numerical parity and benchmark validation
+- 🚀 **Scientific Computing** Physics libraries (MATLAB, Python, C++20) with cross language numerical parity and benchmark validation
 - 🧠 **Context Engineering**: Designing memory and retrieval for agents that need to stay coherent across long, multistep tasks
 
 ## 💛 Collaboration Focus
