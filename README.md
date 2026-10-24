@@ -20,7 +20,7 @@
 
 ### Featured Research Areas
 
-- 🚀 **Aerospace AI**: Mission profile simulation, electric propulsion modeling, with MATLAB and C++ implementations alongside Python
+- 🚀 **Aerospace AI**: Mission profile sims, electric propulsion modeling, with MATLAB and C++ implementations alongside Python
 - 🏥 **Healthcare AI**: Medical imaging and diagnostic datasets
 - 🤖 **Multimodal Gen AI**: Cross modal learning and synthesis
 - 💎 **Integrated Photonics**: SiN waveguide datasets and thermal drift simulation for deep space based instruments
