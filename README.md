@@ -29,8 +29,8 @@
 
 ### World Models Research
 
-- 🌀 **[Hyperbolic-World-Model](https://github.com/ATaylorAerospace/Hyperbolic-World-Model)**: Retrains the action conditioned predictor head of a frozen video world model (V-JEPA 2-AC, with DINO-WM as a second subject) in Euclidean, Poincaré, and Lorentz latent spaces, and measures whether negative curvature improves rollout error, hierarchy recovery, and dimension efficiency. Every distance is computed in the geometry of the model that produced it; curvature is always swept. CI, one command report generation, 500 tests passing.
-- 🏥 **[Clinical-Geodesic](https://github.com/ATaylorAerospace/Clinical-Geodesic)**: Evaluation harness for medical world models, applying the same frozen encoder and native geometry methodology to clinical state prediction.
+- 🌀 **[Hyperbolic-World-Model](https://github.com/ATaylorAerospace/Hyperbolic-World-Model)**: Retrains the action conditioned predictor head of a frozen video world model (V-JEPA 2-AC, with DINO-WM as a second subject) in Euclidean, Poincaré, and Lorentz latent spaces, and measures whether negative curvature improves rollout error, hierarchy recovery, and dimension efficiency.
+- 🏥 <!--**[Clinical-Geodesic](https://github.com/ATaylorAerospace/Clinical-Geodesic)**: Evaluation harness for medical world models, applying the same frozen encoder and native geometry methodology to clinical state prediction.-->
 - 🎯 **Application targets**: Clinical trajectory prediction, and fuel and time efficient space probe transfers to the asteroid belt and Jovian planets.
 
 ## 🔬 Current Technical Work
