@@ -4,6 +4,7 @@
 
 - 🛡️ **Deterministic Agents**: Human in the loop control, fixed execution paths, and audit trails for autonomous systems
 - 🛩️ **Commercial Aerospace**: Orbital mechanics, electric propulsion, and space instrument modeling in MATLAB, Python, and C++
+- 🌀 **World Models**: Evaluation harnesses for latent geometry in action conditioned video world models and in clinical state spaces
 - 🏥 **Multimodal Medical LLMs**: Healthcare AI and diagnostic systems
 - 📐 **Hyperbolic Geometry for AI**: Latent spaces whose geometry matches the hierarchical structure of the data they encode
 
@@ -21,25 +22,33 @@
 ### Featured Research Areas
 
 - 🚀 **Aerospace AI**: Mission profile sims, electric propulsion modeling, with MATLAB and C++ implementations alongside Python
-- 🏥 **Healthcare AI**: Medical imaging and diagnostic datasets
+- 🏥 **Healthcare AI**: Medical imaging and diagnostic datasets, and geometry aware evaluation of clinical world models
 - 🤖 **Multimodal Gen AI**: Cross modal learning and synthesis
 - 💎 **Integrated Photonics**: SiN waveguide datasets and thermal drift simulation for deep space based instruments
+- 📐 **Latent Geometry**: Hyperbolic and Riemannian latent spaces for world models
+
+### World Models Research
+
+- 🌀 **[Hyperbolic-World-Model](https://github.com/ATaylorAerospace/Hyperbolic-World-Model)**: Retrains the action conditioned predictor head of a frozen video world model (V-JEPA 2-AC, with DINO-WM as a second subject) in Euclidean, Poincaré, and Lorentz latent spaces, and measures whether negative curvature improves rollout error, hierarchy recovery, and dimension efficiency. Every distance is computed in the geometry of the model that produced it; curvature is always swept. CI, one command report generation, 500 tests passing.
+- 🏥 **[Clinical-Geodesic](https://github.com/ATaylorAerospace/Clinical-Geodesic)**: Evaluation harness for medical world models, applying the same frozen encoder and native geometry methodology to clinical state prediction.
+- 🎯 **Application targets**: Clinical trajectory prediction, and fuel and time efficient space probe transfers to the asteroid belt and Jovian planets.
 
 ## 🔬 Current Technical Work
 
 - 🛡️ **Agent Harnesses**: Deterministic execution, dry run safety gates, and tamper evident audit logs for production agents
 - 🤖 **Agentic AI**: Production multi agent systems on Watsonx Orchestrate and Amazon Bedrock; evaluating Gemini Enterprise Agent Platform
 - 🛠️ **Tech Stack**: Anthropic Claude (API and Agent SDK), AWS Strands Agents, Google ADK, MCP
+- 🌀 **World Models**: Geometry aware evaluation harnesses (PyTorch, geoopt, Hydra) with CI and reproducible one command reports
+- 📐 **Hyperbolic Latent Spaces**: First evaluation of the hyperbolic representation thesis, comparing action conditioned world models 
 - 🔌 **MCP**: Building MCP servers and tooling; contributor to IBM Context Forge
 - 🚀 **Scientific Computing**: Physics libraries (MATLAB, Python, C++20) with cross language numerical parity and benchmark validation
-- 🧠 **Context Engineering**: Designing memory and retrieval for agents that need to stay coherent across long, multistep tasks
-- 📐 **Hyperbolic Latent Spaces**: First evaluation of the hyperbolic representation thesis, comparing action conditioned world models against Euclidean baselines
 
 ## 💛 Collaboration
 
 - 🛡️ **Deterministic agent harnesses**: Self verifying workflows and human approval gates for production deployments
+- 🌀 **World models**: Latent geometry evaluation, hyperbolic embeddings, and benchmark design for embodied and clinical state prediction
 - 🤖 **Multimodal autonomous agents**: Portable agent designs across Bedrock, Watsonx Orchestrate, and ADK
-- 📐 **Hyperbolic representation learning**: Hyperbolic latent spaces as a standard choice for hierarchical and sequential structure, starting with world models
+- 📐 **Hyperbolic representation learning**: Hyperbolic latents for hierarchical and sequential structure, starting with world models
 
 ## 🤖 Let's Connect
 
