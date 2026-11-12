@@ -43,16 +43,16 @@
 - 🔌 **MCP**: Building MCP servers and tooling; contributor to IBM Context Forge
 - 🚀 **Scientific Computing**: Physics libraries (MATLAB, Python, C++20) with cross language numerical parity and benchmark validation
 
-## 💛 Collaboration
+## 🗣️ Looking To Collaborate On
 
-- 🛡️ **Deterministic agent harnesses**: Self verifying workflows and human approval gates for production deployments
-- 🌀 **World models**: Latent geometry evaluation, hyperbolic embeddings, and benchmark design for embodied and clinical state prediction
-- 🤖 **Multimodal autonomous agents**: Portable agent designs across Bedrock, Watsonx Orchestrate, and ADK
+- 🛡️ **Deterministic Agent Harnesses**: Self verifying workflows and human approval gates for production deployments
+- 🌀 **World Models**: Latent geometry evaluation, hyperbolic embeddings, and benchmark design for embodied and clinical state prediction
+- 🤖 **Multimodal Autonomous Agents**: Portable agent designs across Bedrock, Watsonx Orchestrate, and ADK
 - 📐 **Hyperbolic representation learning**: Hyperbolic latents for hierarchical and sequential structure, starting with world models
 
 ## 🤖 Let's Connect
 
-- 💬 **Commercial Space Industry** discussions and Propulsion insights
-- 🗣️ **German Language Practice**: Seeking relaxed conversations with native speakers in 2026
+- 💬 **Commercial Space Industry** Discussions and Propulsion insights
+- 🗣️ **German Language Practice**: Seeking relaxed conversations with native speakers
 
  [![Hugging Face](https://img.shields.io/badge/HuggingFace-Taylor658-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Taylor658)
